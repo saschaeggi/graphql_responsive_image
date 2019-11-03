@@ -5,5 +5,6 @@ description: Responsive images via graphql api
 core: 8.x
 core_version_requirement: ^8 || ^9
 dependencies:
-  - graphql
+  - graphql:graphql
+  - graphql:graphql_core
   - responsive_image

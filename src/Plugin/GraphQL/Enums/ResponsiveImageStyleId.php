@@ -8,7 +8,7 @@ use Drupal\responsive_image\Entity\ResponsiveImageStyle;
 /**
  * EnumPlugin.
  *
- * GraphQLEnum(
+ * @GraphQLEnum(
  *   id = "responsive_image_style_id",
  *   name = "ResponsiveImageStyleId",
  *   provider = "image"
